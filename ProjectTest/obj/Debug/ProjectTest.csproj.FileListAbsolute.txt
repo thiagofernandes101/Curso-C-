@@ -1,0 +1,7 @@
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\bin\Debug\ProjectTest.exe.config
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\bin\Debug\ProjectTest.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\bin\Debug\ProjectTest.pdb
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\obj\Debug\ProjectTest.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\obj\Debug\ProjectTest.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercio aula\ProjectTestForGitHub\ProjectTest\obj\Debug\ProjectTest.pdb
